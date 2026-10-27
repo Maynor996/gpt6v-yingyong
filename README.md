@@ -1,9 +1,10 @@
-# GPT6.v 应用：适合做什么
+# GPT6.v应用场景有哪些？如何落地
 
 中文说明页关键词：**gpt6.v应用**
 
 - GitHub Pages：https://maynor996.github.io/gpt6v-yingyong/
-- 正文：`docs/index.html` · `docs/article.md`
+- SEO：分层说明GPT6.v应用场景，以及网页到API的落地路径。
+- 正文：`docs/index.html` · `docs/article.md`（含配图）
 
 ## 软推荐（无 aff）
 
